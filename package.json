@@ -1,0 +1,17 @@
+{
+  "name": "nextube",
+  "version": "1.0.0",
+  "description": "A backend project for video streaming",
+  "keywords": [
+    "javascript",
+    "node",
+    "djay"
+  ],
+  "license": "ISC",
+  "author": "djay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
